@@ -10,3 +10,6 @@ builds:
     # empty string to skip modifying the output.
     # Default is empty string.
     mod_timestamp: '{{ .CommitTimestamp }}'
+    archives:
+    - files:
+      - none*
