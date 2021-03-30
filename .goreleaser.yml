@@ -1,6 +1,6 @@
 archives:
-- files:
-  - none*
+- format: binary
+
 builds:
   # You can have multiple builds defined as a yaml list
   -
